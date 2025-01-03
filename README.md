@@ -1,4 +1,5 @@
 TODO:
 - transcription
-- anonymitization 
+- anonymitization
+- filteration 
 - distribution
