@@ -1,0 +1,4 @@
+TODO:
+- transcription
+- anonymitization 
+- distribution
